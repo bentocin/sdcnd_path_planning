@@ -1,7 +1,7 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 
-![Project_Image](./images/collision_free_driving_1.png)
+![Project_Image](./images/collision_free_driving_1.PNG)
 
 ## Reflection
 
